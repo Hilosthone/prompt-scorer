@@ -30,7 +30,7 @@ Paste any AI prompt and get an instant quality score with detailed feedback and 
 | Backend | Python, FastAPI |
 | AI | OpenAI GPT-4o |
 | Frontend | Next.js, TypeScript, Tailwind CSS |
-| Hosting | Render (backend), Vercel (frontend) |
+| Hosting | AWS (backend), Vercel (frontend) |
 
 ---
 
